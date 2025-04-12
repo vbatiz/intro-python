@@ -9,3 +9,5 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 [Python](https://www.python.org/)
 
 [Kaggle Learn](https://www.kaggle.com/learn)
+
+[W3Schools](https://www.w3schools.com/)
