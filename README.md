@@ -9,6 +9,10 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 
 [Google Dataset Search](https://datasetsearch.research.google.com/)
 
+[México - Plataforma Nacional de Datos Abiertos](https://www.datos.gob.mx/)
+
+[USA - Datos Abiertos](https://data.gov/)
+
 ## Otros sitios de interés:
 [Google Colab](https://colab.research.google.com)
 
